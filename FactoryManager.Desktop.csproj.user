@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Views\DashboardView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Dialogs\ProductionDetailsWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\CreateProductionDialog.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Dialogs\ProductionProgressDialog.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\ProductionAnalyticsView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\ProductionDetailsView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\ProductionEventView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\ProductionMonitoringView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\ProductionScheduleView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\ProductionView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\QualityCheckView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\WorkstationDetailsView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\WorkstationHistoryView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\WorkstationManagementView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\WorkstationOverviewView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Themes\ButtonStyles.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\DashboardView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Dialogs\ProductionDetailsWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\CreateProductionDialog.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Dialogs\ProductionProgressDialog.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\ProductionAnalyticsView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\ProductionDetailsView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\ProductionEventView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\ProductionMonitoringView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\ProductionScheduleView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\ProductionView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\QualityCheckView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\WorkstationDetailsView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\WorkstationHistoryView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\WorkstationManagementView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\WorkstationOverviewView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
